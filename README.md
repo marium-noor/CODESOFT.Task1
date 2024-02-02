@@ -8,7 +8,6 @@ Furni is a modern interior design studio website that showcases the studio's ser
 - [Getting Started](#getting-started)
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -19,6 +18,17 @@ Furni is a modern interior design studio website that showcases the studio's ser
 3. **Photo Gallery**: The gallery section showcases inspiring images of different living spaces, categorized by rooms such as Living Room, Bedroom, Kitchen, Bathroom, Terrace, Kid's Room, Drawing Room, and Backyard.
 
 4. **Footer**: The footer contains links to the studio's social media profiles (Instagram, WhatsApp, LinkedIn, Quora) and a copyright notice.
+
+## Screenshots
+
+<img width="945" alt="Screenshot 2024-02-02 220430" src="https://github.com/marium-noor/CODESOFT.Task1/assets/145590434/7a65c3cc-fb9a-4f2d-b244-915683f48dce">
+
+<img width="941" alt="Screenshot 2024-02-02 220447" src="https://github.com/marium-noor/CODESOFT.Task1/assets/145590434/0e10d123-0832-49be-ba63-361ef54befc6">
+
+<img width="942" alt="Screenshot 2024-02-02 220457" src="https://github.com/marium-noor/CODESOFT.Task1/assets/145590434/b84e255f-160e-46b5-abd2-edbfaae739e3">
+
+
+
 
 ## Getting Started
 
